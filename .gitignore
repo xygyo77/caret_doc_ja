@@ -1,0 +1,12 @@
+# ビルド成果物
+site/
+
+# Python 関連
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS 関連
+.DS_Store
+.venv/
+env/

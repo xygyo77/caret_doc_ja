@@ -1,0 +1,15 @@
+nav:
+    - Design: index.md
+    - Software architecture: software_architecture
+    - Runtime processing:
+        - Design: runtime_processing
+    - Processing trace data:
+        - Design: processing_trace_data
+    - Tracepoints: trace_points
+    - Configuration:
+        - Design: configuration
+    - Event and latency definitions:
+        - Design: event_and_latency_definitions
+    - Visualizations:
+        - Design: visualizations
+    - Limits and constraints: limits_and_constraints

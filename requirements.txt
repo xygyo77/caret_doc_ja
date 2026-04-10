@@ -1,0 +1,10 @@
+mkdocs-material
+mkdocs-awesome-pages-plugin
+mkdocs-exclude-plugin
+mkdocs-macros-plugin
+mkdocs-same-dir
+mkdocs-fontawesome-markdown
+mdx-truly-sane-lists
+mkdocs-plantuml-markdown
+googletrans==3.1.0a0
+mike

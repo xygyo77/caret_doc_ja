@@ -1,0 +1,6 @@
+nav:
+    - index.md
+    - caret_trace: caret_trace.md
+    - caret_analyze: caret_analyze.md
+    - tilde.md
+    - agnocast.md
