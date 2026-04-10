@@ -38,7 +38,6 @@ class MarkdownTranslator:
         except: return indent + content
 
     def is_special_line(self, s):
-        # 記号判定を簡略化
         if not s: return True
         # 行頭の数文字で判定
         head3 = s[:3]
